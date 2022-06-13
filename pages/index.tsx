@@ -117,7 +117,7 @@ const Home: NextPage = () => {
     const maxSupplyDone = totalMinted >= maxSupply;
     const isNotValid = maxSupplyDone || !isPublicSale;
 
-    const onClickConnect = async () => {};
+    const onClickConnect = async () => setIsOpen(true);
     // dispatch(SET_WALLET_MODAL_OPEN(true));
 
     const onClickMint = () => {
@@ -250,7 +250,11 @@ const Home: NextPage = () => {
         {StatusComponent()}
         {ButtonComponent()}
       </section>
-      <AnimatePresence>{isOpen && <SelectWalletModal />}</AnimatePresence>
+      <AnimatePresence>
+        {isOpen && (
+          <SelectWalletModal handleCloseModal={() => setIsOpen(false)} />
+        )}
+      </AnimatePresence>
     </Section>
   );
 };

@@ -22,10 +22,14 @@ const CardComponent = (props: CardComponentProps) => {
   );
 };
 // Connect to your MetaMask Wallet
-export default function SelectWalletModal() {
+interface WalletModalProps {
+  handleCloseModal: () => void;
+}
+export default function SelectWalletModal(props: WalletModalProps) {
   const { activate } = useWeb3React();
   // const dispatch = useTypedDispatch();
   const closeModal = () => {
+    props.handleCloseModal();
     // dispatch(SET_WALLET_MODAL_OPEN(false));
     document.body.style.overflow = "";
   };
