@@ -147,6 +147,8 @@ const Home: NextPage = () => {
     <Section>
       <div className="background_overlay"></div>
       <div className="background"></div>
+      <div>contract address</div>
+      <div>0x45E3Ca56946e0ee4bf36e893CC4fbb96A1523212</div>
       <section className="information_wrapper">
         <Img className="nft_image" src="/images/mystery-ape.webp" alt="NFT" />
 
@@ -243,7 +245,6 @@ const Home: NextPage = () => {
         <div className="price">
           <div className="price_title">Total Price</div>
           <div className="price_description">
-            {/* <Poligon /> */}
             <div className="price_count">{NFT.PRICE * mintAmount} Ether</div>
           </div>
         </div>
