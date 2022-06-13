@@ -147,8 +147,10 @@ const Home: NextPage = () => {
     <Section>
       <div className="background_overlay"></div>
       <div className="background"></div>
-      <div>contract address</div>
-      <div>0x45E3Ca56946e0ee4bf36e893CC4fbb96A1523212</div>
+      <ContractAddress>
+        <div>contract address</div>
+        <div>{NFT.NFT_CONTRACT_ADDRESS}</div>
+      </ContractAddress>
       <section className="information_wrapper">
         <Img className="nft_image" src="/images/mystery-ape.webp" alt="NFT" />
 
@@ -460,7 +462,7 @@ const Section = styled.section`
     grid-template-columns: 1fr 1fr;
     place-items: center;
     gap: var(--gap);
-    margin-top: 80px;
+    /* margin-top: 80px; */
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -852,5 +854,29 @@ const Section = styled.section`
     .information_wrapper {
       margin-top: 40px;
     }
+  }
+`;
+
+const ContractAddress = styled.div`
+  padding-top: 80px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1320px;
+  padding-left: 20px;
+  padding-right: 20px;
+  > div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  > div:nth-child(1) {
+    font-weight: 600;
+    font-size: ${(props) => props.theme.fontSizes.fontlg};
+  }
+  @media screen and (max-width: 1320px) {
+    align-items: center;
   }
 `;
