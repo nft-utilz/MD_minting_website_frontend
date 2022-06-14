@@ -4,7 +4,7 @@ import GlobalStyle from "../styles/global-style";
 import { theme } from "../styles/theme";
 import { Web3ReactProvider } from "@web3-react/core";
 import { ethers } from "ethers";
-
+import "../styles/fonts.css";
 const getLibrary = (provider: any) => {
   const library = new ethers.providers.Web3Provider(provider);
   library.pollingInterval = 8000; // frequency provider is polling
