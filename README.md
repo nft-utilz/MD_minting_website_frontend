@@ -46,11 +46,11 @@ in process
 
 [styled-components](https://styled-components.com/docs/advanced) <br />
 [NextJS](https://nextjs.org/) <br />
-[yypescript](https://nextjs.org/) <br />
-[ether](https://nextjs.org/) <br />
-[web3js](https://nextjs.org/) <br />
-[web3react](https://nextjs.org/) <br />
-[framer-motion](https://nextjs.org/) <br />
+[typescript](https://www.typescriptlang.org/) <br />
+[ethers](https://www.npmjs.com/package/ethers) <br />
+[web3](https://www.npmjs.com/package/web3) <br />
+[web3react](https://github.com/NoahZinsmeister/web3-react) <br />
+[framer-motion](https://www.npmjs.com/package/framer-motion) <br />
  
 
 
