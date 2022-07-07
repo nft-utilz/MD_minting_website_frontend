@@ -45,12 +45,13 @@ in process
 ### External Libraries used in this project: 
 
 [styled-components](https://styled-components.com/docs/advanced) <br />
-[NextJS](https://nextjs.org/) <br />
+[nextJS](https://nextjs.org/) <br />
 [typescript](https://www.typescriptlang.org/) <br />
 [ethers](https://www.npmjs.com/package/ethers) <br />
 [web3](https://www.npmjs.com/package/web3) <br />
 [web3react](https://github.com/NoahZinsmeister/web3-react) <br />
 [framer-motion](https://www.npmjs.com/package/framer-motion) <br />
+[alchemy](https://www.npmjs.com/package/framer-motion) <br />
  
 
 
