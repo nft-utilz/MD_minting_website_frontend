@@ -6,13 +6,13 @@
 
 This repository contains full code for Bored Ape Yacht Club minting dapp in NextJS. <br />
 
-Medium👇: <br />
+Medium <br />
 https://medium.com/p/63e59073a529/edit <br />
 
-Youtube👇: <br />
+Youtube <br />
 https://www.youtube.com/channel/UCNV98n5rAXl89HzF6PTDczg <br />
 
-Discord👇: <br />
+Discord <br />
 https://discord.gg/6Ke25gSA5e <br />
 
 View Demo👇: <br />
