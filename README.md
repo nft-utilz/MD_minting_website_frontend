@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/nft-utilz/MD_minting_website_frontend?style=social&logo=KashFlow)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/nft-utilz.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
 
-This repository contains starter code for NFT Collection Website in ReactJS. <br />
+This repository contains full code for Bored Ape Yacht Club minting dapp in NextJS. <br />
 
 View Demo👇: <br />
 https://the-weirdos.netlify.app/ <br />
@@ -37,4 +37,6 @@ Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
 [type-writer effect](https://www.npmjs.com/package/typewriter-effect) <br />
 [react-confetti](https://www.npmjs.com/package/react-confetti) <br />
 [react-use](https://www.npmjs.com/package/react-use) <br />
+
+
  
