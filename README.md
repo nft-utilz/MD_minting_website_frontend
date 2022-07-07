@@ -38,17 +38,20 @@ in process
 
 ### Resources Used in This Project
 
-Character Figures: https://bigheads.io/ <br />
-Fonts: https://fontsource.org/ <br />
-Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
+<!-- Character Figures: https://bigheads.io/ <br /> -->
+<!-- Fonts: https://fontsource.org/ <br /> -->
+<!-- Svg Icons From: https://icons8.com & https://freesvg.org/   <br /> -->
 
 ### External Libraries used in this project: 
 
 [styled-components](https://styled-components.com/docs/advanced) <br />
-[GSAP](https://greensock.com/gsap/) <br />
-[type-writer effect](https://www.npmjs.com/package/typewriter-effect) <br />
-[react-confetti](https://www.npmjs.com/package/react-confetti) <br />
-[react-use](https://www.npmjs.com/package/react-use) <br />
+[NextJS](https://nextjs.org/) <br />
+[yypescript](https://nextjs.org/) <br />
+[ether](https://nextjs.org/) <br />
+[web3js](https://nextjs.org/) <br />
+[web3react](https://nextjs.org/) <br />
+[framer-motion](https://nextjs.org/) <br />
+ 
 
 
  
