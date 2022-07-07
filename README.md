@@ -51,7 +51,7 @@ in process
 [web3](https://www.npmjs.com/package/web3) <br />
 [web3react](https://github.com/NoahZinsmeister/web3-react) <br />
 [framer-motion](https://www.npmjs.com/package/framer-motion) <br />
-[alchemy](https://www.npmjs.com/package/framer-motion) <br />
+[@alch/alchemy-web3](https://www.npmjs.com/package/@alch/alchemy-web3) <br />
  
 
 
