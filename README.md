@@ -11,7 +11,8 @@ https://the-weirdos.netlify.app/ <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/edr2o59Twrs <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://youtu.be/edr2o59Twrs)<br />
+https://www.youtube.com/channel/UCNV98n5rAXl89HzF6PTDczg<br />
+[![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://www.youtube.com/channel/UCNV98n5rAXl89HzF6PTDczg)<br />
 
 
 ### NOTE:  <br />
