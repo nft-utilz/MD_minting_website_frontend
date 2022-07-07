@@ -17,6 +17,8 @@ https://discord.gg/6Ke25gSA5e <br />
 
 View Demo👇: <br />
 https://the-weirdos.netlify.app/ <br />
+<!-- https://the-weirdos.netlify.app/ <br /> -->
+
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/edr2o59Twrs <br />
