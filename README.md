@@ -16,7 +16,7 @@ Discord <br />
 https://discord.gg/6Ke25gSA5e <br />
 
 View Demo👇: <br />
-https://the-weirdos.netlify.app/ <br />
+in process
 <!-- https://the-weirdos.netlify.app/ <br /> -->
 
 
