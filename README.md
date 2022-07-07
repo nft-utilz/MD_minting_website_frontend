@@ -18,7 +18,8 @@ https://youtu.be/edr2o59Twrs <br />
  
 
 ### Images of The NFT Collection Website:
-![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home%20-%20Desktop.png)
+
+![HOME](https://github.com/nft-utilz/MD_minting_website_frontend/blob/main/readme-images/minting-dapp-screen.png)
 ![ABOUT](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-2%20-%20Desktop.png)
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-1%20-%20Mobile.png)
 ![MENU](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-2-%20Mobile.png)
