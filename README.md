@@ -15,13 +15,7 @@ https://youtu.be/edr2o59Twrs <br />
 
 
 ### NOTE:  <br />
-There is one change in the Button.js File.  <br />
-Wrap Btn inside Link component like below for the link to work.
-```
-<a href={link} aria-label={text} target="_blank" rel="noreferrer" >
-<Btn>{text}</Btn>
-</a>
-```
+ 
 
 ### Images of The NFT Collection Website:
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home%20-%20Desktop.png)
