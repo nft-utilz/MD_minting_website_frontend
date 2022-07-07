@@ -2,12 +2,9 @@ import type { NextPage } from "next";
 import React, { useEffect, useState } from "react";
 import styled, { css } from "styled-components";
 import { createAlchemyWeb3 } from "@alch/alchemy-web3";
-import { Wrapper } from "../components/common/styles/page";
 import { MdOutlineDoubleArrow } from "react-icons/md";
-import Poligon from "../public/svg/polygon-matic-logo.svg";
 import moment from "moment";
-import { HACKR_DAO_MINT_EVENTS, RANDOM_BG_COLORS } from "../constants";
-// import { useConnectWallet } from "@web3-onboard/react";
+import { HACKR_DAO_MINT_EVENTS } from "../constants";
 import { cutWallet, getBalance } from "../utils/common";
 import { NFT } from "../web3Config";
 import {
@@ -539,9 +536,6 @@ const Section = styled.section`
   .minting_info {
     width: 100%;
     height: 100%;
-    /* background: ${RANDOM_BG_COLORS[5]}; */
-    /* background: #ffbf00; */
-    /* background: linear-gradient(135deg, #303030cc, #202020cc); */
     border: 3px solid ${(props) => props.theme.colors.black};
     box-shadow: 0.5rem 0.5rem 0 ${(props) => props.theme.colors.black};
     border-radius: 16px;
@@ -550,8 +544,6 @@ const Section = styled.section`
     justify-content: flex-start;
     align-items: center;
 
-    /* border: 3.5px solid ${(props) => props.theme.colors.black}; */
-    /* box-shadow: 0.5rem 0.5rem 0 ${(props) => props.theme.colors.black}; */
     padding: 0.2rem;
     border-radius: 0.4rem;
 
