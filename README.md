@@ -1,8 +1,8 @@
 # 🔴 Build Bored Ape Yacht Club with Next.js, styled-component & solidity (NFT project Tutorial)
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/The-Weirdos-NFT-Website-Starter-Code?style=social&logo=ApacheSpark&label=Stars&maxAge=2592000)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/The-Weirdos-NFT-Website-Starter-Code?style=social&logo=KashFlow)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
+![GitHub stars](https://img.shields.io/github/stars/nft-utilz/MD_minting_website_frontend?style=social&logo=ApacheSpark&label=Stars&maxAge=2592000)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/nft-utilz/MD_minting_website_frontend?style=social&logo=KashFlow)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/nft-utilz.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
 
 This repository contains starter code for NFT Collection Website in ReactJS. <br />
 
