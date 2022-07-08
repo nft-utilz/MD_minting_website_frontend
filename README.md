@@ -46,7 +46,7 @@ in process
 <br/>
 <br/>
 <br/>
-### Resources Used in This Project
+<!-- ### Resources Used in This Project -->
 
 <!-- Character Figures: https://bigheads.io/ <br /> -->
 <!-- Fonts: https://fontsource.org/ <br /> -->
