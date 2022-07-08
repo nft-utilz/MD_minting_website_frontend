@@ -34,14 +34,18 @@ in process
 ![Frontend](https://github.com/nft-utilz/MD_minting_website_frontend/blob/main/readme-images/carbon.png)
 ![Smartcontract](https://github.com/nft-utilz/MD_minting_website_frontend/blob/main/readme-images/carbon-sm.png)
 
-
+<br/>
+<br/>
+<br/>
 
 ### Images of The NFT Collection Website:
 
 ![HOME](https://github.com/nft-utilz/MD_minting_website_frontend/blob/main/readme-images/minting-dapp-screen.png)
  
 
-
+<br/>
+<br/>
+<br/>
 ### Resources Used in This Project
 
 <!-- Character Figures: https://bigheads.io/ <br /> -->
