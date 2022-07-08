@@ -29,6 +29,12 @@ in process
 
 ### NOTE:  <br />
  
+ ### stacks:
+
+![Frontend](https://github.com/nft-utilz/MD_minting_website_frontend/blob/main/readme-images/carbon.png)
+![Smartcontract](https://github.com/nft-utilz/MD_minting_website_frontend/blob/main/readme-images/carbon-sm.png)
+
+
 
 ### Images of The NFT Collection Website:
 
